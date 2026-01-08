@@ -1,0 +1,5 @@
+{
+  "name": "Quran Verse Exporter",
+  "description": "A professional tool for scholars and students to export Quranic verses with custom transliteration mapping in CSV and XLSX formats.",
+  "requestFramePermissions": []
+}
